@@ -1,7 +1,7 @@
 <p1>
-<h1>Vanilla CFR Demonstration</h1>
+<h1>Monte Carlo CFR Demonstration</h1>
 
-This repository is for a simple demonstration of vanilla counterfactual regret minimisation algorithm.
+This repository is for a simple demonstration of Monte Carlo counterfactual regret minimisation algorithm using external sampling.
 This can be used to find Nash Equilibrium strategies in **post flop** for No Limit Texas Holdem
 
 <h3>Inputs </h3>
